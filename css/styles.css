@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ol,
+ul {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol {
+    color: cornflowerblue;
+}
+
+ul {
+    color: red
+}
+
+a.back-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
